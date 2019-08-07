@@ -1,2 +1,3 @@
 # Wing-Of-Zero
-Tugas Besar Grafika Komputer
+Wing of Zero menghadirkan game dengan Pygame Library
+
